@@ -1,0 +1,7 @@
+E:\RG\VisualStudio\ECommerceApplication\ECoomerceApplication.Domain\obj\Debug\net8.0\ECoomerceApplication.Domain.csproj.AssemblyReference.cache
+E:\RG\VisualStudio\ECommerceApplication\ECoomerceApplication.Domain\obj\Debug\net8.0\ECoomerceApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\RG\VisualStudio\ECommerceApplication\ECoomerceApplication.Domain\obj\Debug\net8.0\ECoomerceApplication.Domain.AssemblyInfoInputs.cache
+E:\RG\VisualStudio\ECommerceApplication\ECoomerceApplication.Domain\obj\Debug\net8.0\ECoomerceApplication.Domain.AssemblyInfo.cs
+E:\RG\VisualStudio\ECommerceApplication\ECoomerceApplication.Domain\obj\Debug\net8.0\ECoomerceApplication.Domain.csproj.CoreCompileInputs.cache
+E:\RG\VisualStudio\ECommerceApplication\ECoomerceApplication.Domain\obj\Debug\net8.0\ECoomerceApplication.Domain.MvcApplicationPartsAssemblyInfo.cs
+E:\RG\VisualStudio\ECommerceApplication\ECoomerceApplication.Domain\obj\Debug\net8.0\ECoomerceApplication.Domain.MvcApplicationPartsAssemblyInfo.cache
