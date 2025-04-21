@@ -1,0 +1,7 @@
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.Exceptions\obj\Debug\net8.0\ECommerceApplication.ExceptionsAndResults.csproj.AssemblyReference.cache
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.Exceptions\obj\Debug\net8.0\ECommerceApplication.ExceptionsAndResults.GeneratedMSBuildEditorConfig.editorconfig
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.Exceptions\obj\Debug\net8.0\ECommerceApplication.ExceptionsAndResults.AssemblyInfoInputs.cache
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.Exceptions\obj\Debug\net8.0\ECommerceApplication.ExceptionsAndResults.AssemblyInfo.cs
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.Exceptions\obj\Debug\net8.0\ECommerceApplication.ExceptionsAndResults.csproj.CoreCompileInputs.cache
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.Exceptions\obj\Debug\net8.0\ECommerceApplication.ExceptionsAndResults.MvcApplicationPartsAssemblyInfo.cs
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.Exceptions\obj\Debug\net8.0\ECommerceApplication.ExceptionsAndResults.MvcApplicationPartsAssemblyInfo.cache
