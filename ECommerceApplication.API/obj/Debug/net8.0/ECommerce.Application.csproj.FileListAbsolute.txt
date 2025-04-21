@@ -1,0 +1,7 @@
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.API\obj\Debug\net8.0\ECommerce.Application.csproj.AssemblyReference.cache
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.API\obj\Debug\net8.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.API\obj\Debug\net8.0\ECommerce.Application.AssemblyInfoInputs.cache
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.API\obj\Debug\net8.0\ECommerce.Application.AssemblyInfo.cs
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.API\obj\Debug\net8.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.API\obj\Debug\net8.0\ECommerce.Application.MvcApplicationPartsAssemblyInfo.cs
+E:\RG\VisualStudio\ECommerceApplication\ECommerceApplication.API\obj\Debug\net8.0\ECommerce.Application.MvcApplicationPartsAssemblyInfo.cache
